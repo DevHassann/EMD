@@ -15,6 +15,7 @@ Welcome to the Employee Management Database, a robust solution developed with Mi
 
 ## Screenshots
 ### Data Entry Form
+![Data Entry Form](https://media.licdn.com/dms/image/D4D22AQGKAds8NiJ_JQ/feedshare-shrink_2048_1536/0/1718941629125?e=1721865600&v=beta&t=oplrbjdHQx50LbnviEyxJlTxg5QXyUGA6iy_ptEpkUo)
 
 ### Employee Query Results
 
