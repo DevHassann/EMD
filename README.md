@@ -18,8 +18,11 @@ Welcome to the Employee Management Database, a robust solution developed with Mi
 ![Data Entry Form](https://media.licdn.com/dms/image/D4D22AQGKAds8NiJ_JQ/feedshare-shrink_2048_1536/0/1718941629125?e=1721865600&v=beta&t=oplrbjdHQx50LbnviEyxJlTxg5QXyUGA6iy_ptEpkUo)
 
 ### Employee Query Results
+![Employee Query Result Searching](https://media.licdn.com/dms/image/D4D22AQFzu_O4zoiUOA/feedshare-shrink_800/0/1718941629066?e=1721865600&v=beta&t=20HaVs7CYZXnvOKuAgBkqkZNh-MGaBgIvf0Hb-vPJvQ)
+![Employee Query Result Output](https://media.licdn.com/dms/image/D4D22AQHWsrDmdtoxOg/feedshare-shrink_20/0/1718941629091?e=1721865600&v=beta&t=wSw8OisDW5eJwb-9OhC6M6GRW6OMjY5mDNlAa8d7mUw)
 
 ### Generated Reports
+![Generated Report](https://media.licdn.com/dms/image/D4D22AQERirb78pI1EQ/feedshare-shrink_2048_1536/0/1718941629117?e=1721865600&v=beta&t=3bbAvH3YlkREEExzIqSh7xp9r2ApHb4j3qlRWXMIp04)
 
 ## Features in Detail
 ### Data Entry Forms
